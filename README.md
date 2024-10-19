@@ -1,2 +1,2 @@
 # -ACD-assignment-
-For a detailed description view the following video.
+For a detailed description about natural language processing(NLP) view the following video.
